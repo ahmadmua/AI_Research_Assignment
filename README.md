@@ -1,4 +1,4 @@
-# AI_Research_Project
+# AI Research Project - White Wine Quality
 
 <h1>Abstract</h1>
 
