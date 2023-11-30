@@ -1,4 +1,4 @@
-# AI_Research_Assignment
+# AI_Research_Project
 
 <h1>Abstract</h1>
 
